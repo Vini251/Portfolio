@@ -9,7 +9,7 @@ I am a Senior Computer Science Student at University of California Irvine, gradu
 ## 🔧 Skills
 
 - **Programming Languages:** C++, Python, Java.
-- **Web Development:** JavaScript, React, HTML, CSS, jQuery, Node.js, MongoDB, AWS Services (EC2, Lambda, S3, RDS, VPS, IAM)
+- **Web Development:** JavaScript, HTML, CSS, jQuery, Node.js, MySQL, AWS Services (EC2, Lambda, S3, RDS, VPS, IAM, etc..)
 - **Tools & Technologies:** Unix / Linux (Ubuntu), GitHub, AI/ML (TensorFlow, PyTorch, ScikitLearn)
 
 
